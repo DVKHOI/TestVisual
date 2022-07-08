@@ -1,0 +1,19 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body{
+    
+    background: url('https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/OMC/WFH-2019092007545320.jpg');
+    background-size: cover;
+}
+.main{
+    color: #3F4E4F;
+    font-family: 'Playball', cursive;
+}
+img{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
