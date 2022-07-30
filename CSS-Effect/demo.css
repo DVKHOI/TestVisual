@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box_1{
+    width: 100px;
+    height: 100px;
+    background: palegreen;
+}
+
+.box_1:hover {
+    background: yellowgreen;
+}
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  .box_1, .box_2, .box_3{
+    margin-top: 20px;
+  }
+  .box_2 p i:first-child {
+    color: blue;
+  } 
+
+  .box_3 p:first-child i {
+    color: blue;
+  } 
